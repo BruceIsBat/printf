@@ -3,9 +3,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - This is the entry point
  *
- * Return: Always 0
+ * Return: Always 0(success)
  */
 int main(void)
 {
